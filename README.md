@@ -35,3 +35,10 @@ Overall, the goal of web app pen testing is to identify security weaknesses in t
 that they can be addressed before attackers exploit them. By conducting regular pen testing,
 organizations can ensure that their web applications remain secure and protected against
 potential threats.
+
+### Team Members
+1. Abdul Ahad (TCA2056002)
+
+2. Kafeel Ahmad (TCA2056013)
+
+3.Rishi (TCA2056018)
