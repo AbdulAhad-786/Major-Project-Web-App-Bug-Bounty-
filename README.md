@@ -12,19 +12,25 @@ aim is to improve the web application's security posture and protect against pot
 breaches. Basically, WAPT (Web Applications and Penetration Testing) is finding web app-based
 vulnerabilities on Websites. In this project, we will find vulnerabilities and exploit them and we
 also give remediation of those vulnerabilities.
+
 The pen testing process involves the following steps:
+
 1.Planning and reconnaissance : In this initial phase, the pen tester gathers information
 about the web application, such as its functionality, architecture, and technologies used.
+
 2.Vulnerability scanning : The pen tester uses automated tools to scan the application
 for known vulnerabilities, such as SQL injection, cross-site scripting (XSS), and file
 inclusion vulnerabilities.
+
 3.Manual testing : The pen tester manually probes the application to identify and exploit
 vulnerabilities that cannot be detected by automated tools. This can involve attempting
 to bypass authentication mechanisms, injecting malicious code into the application, or
 manipulating input fields to access unauthorized data.
+
 4.Reporting : The pen tester prepares a report that summarizes the findings of the pen
 testing process, including identified vulnerabilities, their severity, and recommendations
 for addressing them.
+
 Overall, the goal of web app pen testing is to identify security weaknesses in the application so
 that they can be addressed before attackers exploit them. By conducting regular pen testing,
 organizations can ensure that their web applications remain secure and protected against
